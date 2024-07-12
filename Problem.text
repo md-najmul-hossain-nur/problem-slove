@@ -1,0 +1,22 @@
+
+1.User input
+2. Random value
+ 62 62 51 28 67 
+Enter sorting Choose: 
+
+1.Bubble Sort
+2.Insertion Sort
+3.Selection Sort
+
+After Bubble sort 
+28 51 62 62 67 
+Enter searching number : 
+Enter which Searching you use: 
+
+1.Liner Search
+2.Binary Search
+3.Plan-B
+
+Found 51 at index 1.
+
+Total sum is 270 
